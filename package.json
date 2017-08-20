@@ -1,8 +1,8 @@
 {
   "name": "artist-service",
   "version": "1.0.0",
-  "description": "Used by the polaris document generation application to persist events from an SNS topic to a dynamo db",
-  "author": "Polaris",
+  "description": "",
+  "author": "Chris Barbour",
   "license": "MIT",
   "dependencies": {
     "aws-sdk": "^2.69.0",
